@@ -30,6 +30,11 @@
 
   - Add a new feature or fix a bug.
 
-  - Submit your changes as a pull request.
+  - Submit your changes as a pull request
+
+  <h3> Project View  </h3>
+
+  ![CourseWebsiteScreen](https://github.com/SercanErpolat/CourseWebsite-HTML-CSS-JS/assets/110222359/e377a60a-a2be-4e34-af99-4286ce6ce4ec)
+
   
   

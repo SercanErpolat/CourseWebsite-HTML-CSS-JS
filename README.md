@@ -12,12 +12,13 @@
   
   - Detailed CSS usage
 
-    <h4>Used Technologies</h4>
-    - HTML
+  <h4> Used Technologies </h4>
+  
+   - HTML
+     
+  - CSS
 
-    - CSS
-
-    - Javascript
+  - Javascript
 
   <h4>On How To Use The Project: </h4>
 

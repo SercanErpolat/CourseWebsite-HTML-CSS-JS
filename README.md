@@ -1,34 +1,34 @@
-# CourseWebsite-HTML-CSS-JS
+  # CourseWebsite-HTML-CSS-JS
 
-<h4> A brief description of the main features and benefits of the project </h4>
+  <h4> A brief description of the main features and benefits of the project </h4>
 
-- Beginner level JS usage
+  - Beginner level JS usage
   
-- Responsive design
+  - Responsive design
   
-- Interactive elements
+  - Interactive elements
   
-- Changeable contents
+  - Changeable contents
   
-- Detailed CSS usage
+  - Detailed CSS usage
 
-<h4>Used Technologies</h4>
-- HTML
+  <h4>Used Technologies</h4>
+  - HTML
 
--CSS
+  -CSS
 
--Javascript
+  -Javascript
 
-<h4>On How To Use The Project: </h4>
+  <h4>On How To Use The Project: </h4>
 
-You can view HTML pages in your editor.
+  You can view HTML pages in your editor.
 
-<h4> If you want to contribute to the project, please follow the steps below </h4>
+  <h4> If you want to contribute to the project, please follow the steps below </h4>
 
-- Create a fork.
+  - Create a fork.
 
--Add a new feature or fix a bug.
+  -Add a new feature or fix a bug.
 
--Submit your changes as a pull request.
+  -Submit your changes as a pull request.
   
   
